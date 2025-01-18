@@ -9,6 +9,13 @@ Team Members
 3. Quah Zhen Yee
 4. Lee Wei Xuan
 5. Goh Kok Wei
+
+# My Project
+
+Check out this video for more information:
+
+[![Watch the video](https://img.youtube.com/vi/ibmbXXh5H2E/maxresdefault.jpg)](https://youtu.be/ibmbXXh5H2E?si=HaRhpVLN8OEPkVBp)
+
    
 Reflection
 
