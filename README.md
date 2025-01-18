@@ -12,9 +12,10 @@ Team Members
 
 # My Project
 
-Check out this video for more information:
+Check out the videos for more my project:
 
-[![Watch the video](https://img.youtube.com/vi/ibmbXXh5H2E/maxresdefault.jpg)](https://youtu.be/ibmbXXh5H2E?si=HaRhpVLN8OEPkVBp)
+[![Watch the video](https://img.youtube.com/vi/QyZCmugC9l0/maxresdefault.jpg)](https://youtu.be/QyZCmugC9l0?si=R6KXz9tFtwlC53gY)
+
 
    
 Reflection
