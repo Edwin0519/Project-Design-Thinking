@@ -12,7 +12,7 @@ Team Members
 
 # My Project
 
-Check out the videos for more my project:
+Check out the videos of my project:
 
 [![Watch the video](https://img.youtube.com/vi/QyZCmugC9l0/maxresdefault.jpg)](https://youtu.be/QyZCmugC9l0?si=R6KXz9tFtwlC53gY)
 
